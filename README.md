@@ -5,7 +5,6 @@ It visualizes elastic collisions between two cubes based on their mass and veloc
 
 ![Collision Simulation Demo](assets/demo.gif)
 
----
 
 ## 💡 Features
 
@@ -35,7 +34,6 @@ These equations are based on the **law of conservation of momentum** and **kinet
 
 ### 📁 Project Structure
 
----
 
 ```
 Elastic-Collision-Simulator/
@@ -48,7 +46,6 @@ Elastic-Collision-Simulator/
 ```
 ## ▶️ How to Run
 
----
 
 ### Requirements
 
@@ -69,7 +66,5 @@ python main.py
 ```
 
 ### License
-
----
 This project is licensed under the MIT License.
 Feel free to use, modify, and share.

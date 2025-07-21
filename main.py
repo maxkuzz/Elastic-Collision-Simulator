@@ -40,10 +40,7 @@ def main():
         cube2.draw(screen)
         draw_static_info(screen, font, cube1, cube2)
         pygame.display.flip()
-        pygame.image.save(screen, f"frames/frame_{frame_count:04d}.png")
-        frame_count += 1
-        if frame_count >= 1440:
-            running = False
+
     pygame.quit()
 
 
